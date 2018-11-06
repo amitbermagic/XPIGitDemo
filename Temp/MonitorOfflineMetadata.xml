@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData projectKey="562e0d10-72ba-4911-9bd5-7c141d68837a">
+  <BusinessProcess>
+    <ID>1</ID>
+    <Name>Business Process-1</Name>
+    <Flow>
+      <ID>1</ID>
+      <Name>My Flow</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>Its Fun To Use GIT</Name>
+      </Step>
+    </Flow>
+  </BusinessProcess>
+</ProjectData>
